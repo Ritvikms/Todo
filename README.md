@@ -1,6 +1,7 @@
 #TODO PROJECT
 - KEY FEATURES
-- Crud operations
+- used springboot, JPA,Postman, SQL database,JAVA
+- Crud operations (POST, DELETE, PUT, PATCH)
 -  Created api's // can keep track of todo list and maintain its status
 -  connected to MySql workbench
 -  used postman to test 
@@ -8,4 +9,4 @@
 -  Users and Admin access provided
 -  // spring security used to give different access roles to different users.
 -  method level access providers used in spring security
--  
+  
